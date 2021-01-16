@@ -15,5 +15,4 @@ This app helped me understand the value of jQuery. jQuery is a JavaScript librar
 ### Screenshots
 <img src = "imgs/Workday.png" width = 800>
 <br>
-<p>Scheduler in Action</p>
 <img src = "imgs/WorkdayAction.png" width = 800>
