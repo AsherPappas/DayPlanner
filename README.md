@@ -10,7 +10,7 @@ This app helped me understand the value of jQuery. jQuery is a JavaScript librar
 [Repo](https://github.com/AsherPappas/DayPlanner)
 <br>
 
-<img src = "imgs/Workday1.png" width = 800>
+<img src = "imgs/Workday.png" width = 800>
 <br>
 <p>Scheduler in Action</p>
-<img src = "imgs/Workday2.png" width = 800>
+<img src = "imgs/WorkdayAction.png" width = 800>
