@@ -11,7 +11,8 @@ This app helped me understand the value of jQuery. jQuery is a JavaScript librar
 <br>
 [Repo](https://github.com/AsherPappas/DayPlanner)
 <br>
-
+<br><br>
+### Screenshots
 <img src = "imgs/Workday.png" width = 800>
 <br>
 <p>Scheduler in Action</p>
